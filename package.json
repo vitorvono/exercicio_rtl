@@ -39,5 +39,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "`npm install` ou `yarn install`",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorvono/exercicio_rtl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorvono/exercicio_rtl/issues"
+  },
+  "homepage": "https://github.com/vitorvono/exercicio_rtl#readme"
 }
